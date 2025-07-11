@@ -86,10 +86,4 @@ public class Heap_Sort extends Sort_Algorithm {
             }
         }
     }
-
-
-    @Override
-    public String get_name() {
-        return "Heap_Sort         ";
-    }
 }
